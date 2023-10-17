@@ -13,7 +13,7 @@ const DUMMY_EVENTS = [
       description:
         "Electronic medical records, inventory and collections management for small clinics. Login credetiials - Username: genericuser, password: secure123",
       image: 'images/emr.jpg',
-      url: 'http://ec2-54-161-101-243.compute-1.amazonaws.com/'
+      url: 'http://smartemr.net'
     },
     {
       id: 'e3',
